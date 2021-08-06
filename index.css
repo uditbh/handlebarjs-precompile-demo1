@@ -14,6 +14,9 @@ body{
    margin: 15% 0 0 40%;
    animation: sampleAnimation 2s infinite alternate;
 }
+#world{
+	background-color: lightblue;
+}
 @keyframes sampleAnimation{
     from{border-radius: 0;}
     to{border-radius: 50%;
